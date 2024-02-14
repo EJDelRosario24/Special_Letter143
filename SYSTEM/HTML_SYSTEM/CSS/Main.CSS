@@ -13,8 +13,8 @@ width:100px;
 }
 #pannel1{
     z-index: 2;
-    heigth:300%;
-    width: 100%;
+    heigth:100%;
+    width: 50%;
     opacity:0.5;
     background-color:white;
     border:black 2px bold;
