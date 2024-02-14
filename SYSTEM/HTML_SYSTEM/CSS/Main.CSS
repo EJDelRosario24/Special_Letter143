@@ -28,13 +28,12 @@ background-color:white;
  
     background-color:white;
     border:black 2px bold;
-transform:translate(50%,50%);
+
 }
 #button1{
     display:flex;
     z-index: 2;
       top:80%;
       left:50%;
-    
-    
+    transform:translate(50%,50%);
 }
