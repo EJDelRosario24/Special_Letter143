@@ -24,7 +24,7 @@ background-color:white;
 
 #button1{
     display:flex;
-    z-index: 2;
+    z-index: 3;
       top:80%;
       left:50%;
      transform:translate(50%,50%);
