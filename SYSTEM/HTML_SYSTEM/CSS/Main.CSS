@@ -1,0 +1,19 @@
+body{
+justify-content: center;
+height: 100vh;
+display: flex;
+align-items: center;
+margin:0;
+background-color:Red;
+}
+
+/*--------------------------------------------------------------------------------------*/
+
+#pannel1{
+    z-index: 2;
+    top:300px;
+    right: 100px;
+    opacity:0.5;
+    background-color:white;
+    border:black 2px bold;
+}
