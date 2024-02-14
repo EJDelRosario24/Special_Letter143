@@ -9,11 +9,11 @@ background-color:Red;
 
 /*--------------------------------------------------------------------------------------*/
 #null1{
-width:100px;
+width:10px;
 }
 #pannel1{
     z-index: 2;
-    heigth:100%;
+    heigth:80%;
     width: 50%;
     opacity:0.5;
     background-color:white;
