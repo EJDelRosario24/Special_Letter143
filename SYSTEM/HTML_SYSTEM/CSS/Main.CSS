@@ -12,6 +12,7 @@ background-color:Red;
 width:10px;
 }
 #pannel1{
+    display:flex;
     z-index: 2;
       bottom:30%;
       left:50%;
