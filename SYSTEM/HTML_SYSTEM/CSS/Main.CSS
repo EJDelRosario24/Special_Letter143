@@ -18,7 +18,7 @@ width:10px;
 background-color:white;
     border:black 2px bold;
    opacity:0.5;
-   transform:translate(50%,50%);
+   
  display:flex;
 }
 
@@ -27,5 +27,5 @@ background-color:white;
     z-index: 3;
       top:80%;
       left:50%;
-    
+     transform:translate(50%,50%);
 }
