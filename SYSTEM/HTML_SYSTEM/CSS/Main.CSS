@@ -22,7 +22,7 @@ background-color:white;
  display:flex;
 }
 
-#button1{
+#buttons1{
     display:flex;
     z-index: 3;
       top:80%;
